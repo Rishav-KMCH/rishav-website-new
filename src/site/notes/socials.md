@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/socials/","tags":["introduction"],"dgShowFileTree":true}
+{"dg-publish":true,"permalink":"/socials/","tags":["introduction"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
 # socials

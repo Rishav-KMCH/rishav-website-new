@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hey-there-i-m-rishav/","tags":["gardenEntry"],"dgShowFileTree":true}
+{"dg-publish":true,"permalink":"/hey-there-i-m-rishav/","tags":["gardenEntry"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
 
