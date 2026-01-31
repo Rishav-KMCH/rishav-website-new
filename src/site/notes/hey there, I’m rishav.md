@@ -7,7 +7,7 @@
 i’m rishav, a person who works their best in wait for no return.
 
 
-[[socials\|socials]] • [[workspace or setup\|workspace or setup]] • [[unorganized blog\|unorganized blog]]
+[[socials\|socials]] • [[workspace or setup\|workspace or setup]] • [[unorganized blog/unorganized blog\|unorganized blog]]
 
 ![Pasted image 20260131194627.png](/img/user/Pasted%20image%2020260131194627.png)
 *adobe stock: anime white male*
