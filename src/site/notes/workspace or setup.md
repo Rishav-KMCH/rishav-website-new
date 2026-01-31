@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/workspace-or-setup/"}
 ---
 
-
+# workspace or setup
 ## 📲 devices
 
 ### macbook air 💻
